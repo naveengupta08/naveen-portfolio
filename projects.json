@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "name": "Project Name",
+      "image": "assets/project preview/default.png",
+      "description": "Project Short Descriptions",
+      "btns": [
+        {
+          "text": "code",
+          "href": "https://github.com/naveengupta08"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "image": "assets/project preview/default.png",
+      "description": "Project Short Descriptions",
+      "btns": [
+        {
+          "text": "code",
+          "href": "https://github.com/naveengupta08"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "image": "assets/project preview/default.png",
+      "description": "Project Short Descriptions",
+      "btns": [
+        {
+          "text": "code",
+          "href": "https://github.com/naveengupta08"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "image": "assets/project preview/default.png",
+      "description": "Project Short Descriptions",
+      "btns": [
+        {
+          "text": "code",
+          "href": "https://github.com/naveengupta08"
+        }
+      ]
+    }
+  ]
+}
